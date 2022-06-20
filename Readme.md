@@ -1,7 +1,7 @@
 # Forest Fires in Brazil
 What is forest fire? It is the propagation of fire, in forest and savanna areas (cerrados and caatingas), normally occurs with frequency and intensity in the dry periods and is intrinsically related to the reduction of environmental humidity.
 
-At the end of April this year, the Brazilian Institute for the Environment and Renewable Natural Resources, better known by the acronym IBAMA, published the public notice for a temporary forest fire brigade public contest. It aroused a curiosity to know more about forest fires in recent years. I started researching and found a very interesting and enriching case on the Data Viking channel (YouTube). The analysis was done with data from 1998-2017. The managerial result of the analysis is shown in the following image.
+At the end of April this year, the Brazilian Institute for the Environment and Renewable Natural Resources, better known by the acronym IBAMA, published the public notice for a temporary forest fire brigade public contest. It aroused a curiosity to know more about forest fires in recent years. I started researching and found a very interesting and enriching case on the Data Viking channel (YouTube). The analysis was done with data from 1998-2017. The managerial result of the analysis is shown in the following image. I recommend clicking on the image for a better experience.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/106841477/174628542-a3ccdb6e-e491-44f7-9752-d12eb3fbea1e.png"/>
