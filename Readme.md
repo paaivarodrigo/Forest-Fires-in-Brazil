@@ -4,7 +4,7 @@ What is forest fire? It is the propagation of fire, in forest and savanna areas 
 At the end of April this year, the Brazilian Institute for the Environment and Renewable Natural Resources, better known by the acronym IBAMA, published the public notice for a temporary forest fire brigade public contest. It aroused a curiosity to know more about forest fires in recent years. I started researching and found a very interesting and enriching case on the Data Viking channel (YouTube). The analysis was done with data from 1998-2017. The managerial result of the analysis is shown in the following image.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/106841477/174626120-961ba382-b513-46be-8385-3a392098ac22.png"/>
+<img src="https://user-images.githubusercontent.com/106841477/174628542-a3ccdb6e-e491-44f7-9752-d12eb3fbea1e.png"/>
 </div>
 
 From the analysis, I could observe that:
